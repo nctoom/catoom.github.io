@@ -1,0 +1,30 @@
+//收集于网络，免费分享，如有冒犯，联系删除，微信公众号：奇奇乐分享，Q群号码：90859992。
+{ "urls": [{ "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
+
+{ "url": "https://mpanso.me/DEMO.json", "name": "小米" },
+
+{ "url": "http://肥猫.com", "name": "肥猫" },
+
+{ "url": "http://tvbox.王二小放牛娃.top", "name": "王二小" },
+
+{ "url": "http://我不是.摸鱼儿.com", "name": "摸鱼儿" },
+
+{ "url": "https://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=o", "name": "欧歌" },
+
+{ "url": "https://9877.kstore.space/FourD/api.json", "name": "潇洒" },
+
+{ "url": "https://gh.aptv.app/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "南风" },
+
+{ "url": "https://gh.aptv.app/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json", "name": "香雅情" },
+
+{ "url": "http://kxrj.site:55/天天开心", "name": "天天开心" },
+
+{ "url": "https://100km.top/0", "name": "骚零" },
+
+{ "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json", "name": "短剧频道" },
+
+{ "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "少儿频道" },
+
+{ "url": "http://z.qiqiv.cn/123/258.txt", "name": "🌟资源全部免费" },
+
+{ "url": "http://z.qiqiv.cn/123/369.txt", "name": "🌟请勿内置售卖" }]}
